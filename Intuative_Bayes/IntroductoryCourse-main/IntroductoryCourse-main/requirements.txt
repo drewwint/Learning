@@ -1,0 +1,13 @@
+arviz
+graphviz
+jupyterlab
+matplotlib
+numpy
+openpyxl
+pandas
+pymc
+pyxlsb
+scipy
+seaborn
+setuptools
+xlrd
